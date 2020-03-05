@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "998822536967",
+    "firebase_url": "https://family-gps-tracker-60a51.firebaseio.com",
+    "project_id": "family-gps-tracker-60a51",
+    "storage_bucket": "family-gps-tracker-60a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998822536967:android:0b2377a32027800a",
+        "android_client_info": {
+          "package_name": "com.example.nazmulhoque.familygpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998822536967-7b6bbce2hnu6djec168lf7gkp2ac92co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZRroLpmjMNdVk0_6IQANPJmvDRHzLh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998822536967-7b6bbce2hnu6djec168lf7gkp2ac92co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998822536967:android:e6ec65742dc2b5f9",
+        "android_client_info": {
+          "package_name": "com.nazmul.finalyearproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998822536967-c6fkdog6b4ifgks8dj5j40o4q4h3j6n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nazmul.finalyearproject",
+            "certificate_hash": "d40a117d07215abad2cfce14a2a3e5f340de842b"
+          }
+        },
+        {
+          "client_id": "998822536967-2urqmtc1atahcsav590i4ufe957kjs0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nazmul.finalyearproject",
+            "certificate_hash": "3f1ffe11fdd85ad7bcd44ca1d772fbfb9c1ec04c"
+          }
+        },
+        {
+          "client_id": "998822536967-7b6bbce2hnu6djec168lf7gkp2ac92co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZRroLpmjMNdVk0_6IQANPJmvDRHzLh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998822536967-7b6bbce2hnu6djec168lf7gkp2ac92co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
